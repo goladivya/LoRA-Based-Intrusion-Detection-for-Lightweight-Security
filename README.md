@@ -15,7 +15,6 @@ To develop a **lightweight, high-performance intrusion detection framework** cap
 
 ## Key Features
 
-* 🔹 **LoRA fine-tuned LLM embeddings** for efficient feature extraction
 * 🔹 **Multi-model comparison:** LightGBM, Random Forest, and 1D-CNN
 * 🔹 **Low resource usage** suitable for edge and IoT devices
 * 🔹 **Streamlit-based frontend** for easy model evaluation and comparison
