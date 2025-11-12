@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model and data artifacts
+*.pkl
+*.joblib
+*.pt
+*.txt
+*.csv
+
+# OS / IDE files
+.DS_Store
+*.log
+.idea/
+.vscode/
