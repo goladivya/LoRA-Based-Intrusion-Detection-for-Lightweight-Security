@@ -1,4 +1,4 @@
-# LoRA-Based-Intrusion-Detection-for-Lightweight-Security\Here’s a clean, professional **README.md** you can use for your GitHub project:
+# LoRA-Based-Intrusion-Detection-for-Lightweight-Security
 
 ## Overview
 
