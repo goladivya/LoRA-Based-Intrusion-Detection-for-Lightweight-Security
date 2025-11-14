@@ -99,7 +99,7 @@ All models are evaluated and compared using a common test dataset for fairness.
 
 ## Conclusion
 
-This project demonstrates how **LoRA-based fine-tuning and hybrid ML models** can enable **efficient, accurate intrusion detection** on **low-resource devices**. It bridges deep learning and classical ML to deliver a practical, scalable IDS solution.
+This project demonstrates how **hybrid ML models** can enable **efficient, accurate intrusion detection** on **low-resource devices**. 
 
 ---
 
